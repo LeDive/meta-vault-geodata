@@ -1,11 +1,14 @@
 {
     "type": "FeatureCollection",
+    "properties": {
+        "name": "Japan Prefectures",
+        "country": "JPN"
+    },
     "features": [
         {
             "type": "Feature",
             "properties": {
                 "name": "Mainland Province",
-                "country": "JPN",
                 "level": "prefecture"
             },
             "geometry": {
@@ -39,9 +42,7 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "REG-002",
                 "name": "Island Province",
-                "country": "JPN",
                 "level": "prefecture"                
             },
             "geometry": {
