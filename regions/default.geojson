@@ -1,0 +1,102 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mainland Province",
+                "country": "JPN",
+                "level": "prefecture"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.0,
+                            0.0
+                        ],
+                        [
+                            2.0,
+                            0.0
+                        ],
+                        [
+                            2.0,
+                            2.0
+                        ],
+                        [
+                            0.0,
+                            2.0
+                        ],
+                        [
+                            0.0,
+                            0.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "REG-002",
+                "name": "Island Province",
+                "country": "JPN",
+                "level": "prefecture"                
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                5.0,
+                                0.0
+                            ],
+                            [
+                                6.0,
+                                0.0
+                            ],
+                            [
+                                6.0,
+                                1.0
+                            ],
+                            [
+                                5.0,
+                                1.0
+                            ],
+                            [
+                                5.0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                7.0,
+                                0.0
+                            ],
+                            [
+                                8.0,
+                                0.0
+                            ],
+                            [
+                                8.0,
+                                1.0
+                            ],
+                            [
+                                7.0,
+                                1.0
+                            ],
+                            [
+                                7.0,
+                                0.0
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
