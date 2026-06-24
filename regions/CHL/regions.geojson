@@ -3,6 +3,10 @@
     "features": [
       {
         "type": "Feature",
+        "properties": {
+          "name": "Arica y Parinacota",
+          "level": "region"
+        },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -801,14 +805,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Arica y Parinacota",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "Tarapacá",
+          "level": "region"
+        },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -2847,14 +2851,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Tarapacá",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "Antofagasta",
+          "level": "region"
+        },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -5929,14 +5933,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Antofagasta",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "Magallanes y Antártica Chilena",
+          "level": "region"
+        },
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -41599,14 +41603,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Magallanes y Antártica Chilena",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "Aysén del Gral.Ibañez del Campo",
+          "level": "region"
+        },
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -61515,14 +61519,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Aysén del Gral.Ibañez del Campo",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "Atacama",
+          "level": "region"
+        },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -64029,14 +64033,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Atacama",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "Coquimbo",
+          "level": "region"
+        },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -66047,14 +66051,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Coquimbo",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "Valparaíso",
+          "level": "region"
+        },
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -68023,14 +68027,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Valparaíso",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "Región Metropolitana de Santiago",
+          "level": "region"
+        },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -69701,14 +69705,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Región Metropolitana de Santiago",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "Los Lagos",
+          "level": "region"
+        },
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -76153,14 +76157,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Los Lagos",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "Los Ríos",
+          "level": "region"
+        },
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -77561,14 +77565,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Los Ríos",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "La Araucanía",
+          "level": "region"
+        },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -79183,14 +79187,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "La Araucanía",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "Bío-Bío",
+          "level": "region"
+        },
         "geometry": {
           "type": "MultiPolygon",
           "coordinates": [
@@ -81351,14 +81355,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Bío-Bío",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "Regionname": "Ñuble",
+          "level": "region"
+        },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -82701,14 +82705,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "Regionname": "Ñuble",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "Maule",
+          "level": "region"
+        },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -86383,14 +86387,14 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Maule",
-          "level": "region"
         }
       },
       {
         "type": "Feature",
+        "properties": {
+          "name": "Libertador Bernardo O'Higgins",
+          "level": "region"
+        },
         "geometry": {
           "type": "Polygon",
           "coordinates": [
@@ -90209,10 +90213,6 @@
               ]
             ]
           ]
-        },
-        "properties": {
-          "name": "Libertador Bernardo O'Higgins",
-          "level": "region"
         }
       }
     ]
