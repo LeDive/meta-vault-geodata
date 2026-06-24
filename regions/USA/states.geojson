@@ -1,5 +1,9 @@
 {
     "type": "FeatureCollection",
+    "properties": {
+      "name": "US States",
+      "country": "USA"
+    },    
     "features": [
       {
         "type": "Feature",
