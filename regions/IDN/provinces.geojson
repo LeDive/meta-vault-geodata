@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "name": "Indonesian Provinces",
-    "country": "Indonesia",
+    "country": "IDN",
     "features": [
         {
             "type": "Feature",
