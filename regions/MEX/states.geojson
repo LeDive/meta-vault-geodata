@@ -1,5 +1,7 @@
 {
     "type": "FeatureCollection",
+    "name": "Mexican States",
+    "country": "MEX",    
     "features": [
         {
             "type": "Feature",

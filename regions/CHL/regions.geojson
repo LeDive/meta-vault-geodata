@@ -1,9 +1,7 @@
 {
   "type": "FeatureCollection",
-  "properties": {
-    "name": "Chile Regions",
-    "country": "CHL"
-  },
+  "name": "Chile Regions",
+  "country": "CHL",
   "features": [
     {
       "type": "Feature",
