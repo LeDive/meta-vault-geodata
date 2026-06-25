@@ -81364,7 +81364,7 @@
       {
         "type": "Feature",
         "properties": {
-          "Regionname": "Ñuble",
+          "name": "Ñuble",
           "level": "region"
         },
         "geometry": {
