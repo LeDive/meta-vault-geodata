@@ -1,5 +1,7 @@
 {
     "type": "FeatureCollection",
+    "name": "Spanish Provinces",
+    "country": "ESP",
     "features": [
         {
             "type": "Feature",
